@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Umar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif?raw=true">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdumar8202&label=Profile%20views&color=0e75b6&style=flat" alt="mdumar8202" /> </p>
 
 - 🔭 I’m currently looking for job **Bank Management System**
